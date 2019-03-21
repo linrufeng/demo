@@ -1,8 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "李林森1" },
-    { "id": 2, "title": "李林森1 2" },
-    { "id": 3, "title": "李林森1 3" }
+    {"msg":"上传成功"}
   ],
   "comments": [
     { "id": 1, "body": "some 李林森1", "postId": 1 },
