@@ -1,6 +1,6 @@
 {
   "posts": [
-    {"msg":"上传成功"}
+    {"id":"上传成功"}
   ],
   "comments": [
     { "id": 1, "body": "some 李林森1", "postId": 1 },
