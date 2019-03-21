@@ -1,12 +1,11 @@
 {
   "posts": [
-    {"id":"上传成功"}
+    {"id":1,"body":"上传成功"}
   ],
-  "comments": [
-    { "id": 1, "body": "some 李林森1", "postId": 1 },
-    { "id": 2, "body": "some 李林森1", "postId": 12 }
+  "comments": [   
+    { "id": 2, "body": "some ", "postId": 12 }
   ],
   "profile": {
-    "name": "李林森1"
+    "name": "23"
   }
 }
